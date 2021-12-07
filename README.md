@@ -1,4 +1,4 @@
-# Avula_Project
+# Course Management System
 
 
 2(a)  **List of all pre-requisite software:** 
